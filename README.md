@@ -23,6 +23,9 @@ Odin Recipes is a website with recipies for a delicious 3 course meal!
 
 The project is part of [The Odin Project's Foundations course](https://www.theodinproject.com/lessons/foundations-recipes).
 
+![sohankancherla github io_odin-recipes_](https://github.com/sohankancherla/odin-recipes/assets/30853467/23cd9109-cf7b-4f99-bb60-79489b869ad4)
+
+
 ## Built With
 
 This project is the backbone of simple recipie website. Below is a list of the major tools and languages utilized:
